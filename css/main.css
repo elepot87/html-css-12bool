@@ -1,0 +1,20 @@
+/* General */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.box {
+  background-color: rebeccapurple;
+  text-align: center;
+  color: #fff;
+}
+
+h1 {
+  color: rebeccapurple;
+  font-size: 20px;
+  margin: 20px 0;
+}
