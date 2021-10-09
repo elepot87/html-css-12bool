@@ -1,0 +1,39 @@
+/* General */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.box {
+  text-align: center;
+  color: #fff;
+  height: 40px;
+}
+
+.box-nested {
+  background-color: aqua;
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  height: 30px;
+}
+
+h1 {
+  color: rebeccapurple;
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.bg-orange {
+  background-color: #fe9900;
+}
+
+.bg-white {
+  background: #fff;
+}
+
+.bg-black {
+  background: #000;
+}
